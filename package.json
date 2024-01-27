@@ -1,0 +1,34 @@
+{
+  "name": "goit-js-hw-14handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "transformers": {
+    "*.hbs": [
+      "parcel-transformer-hbs"
+    ]
+  },
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --no-minify --no-source-maps --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/goit-js-hw-14handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/goit-js-hw-14handlebars/issues"
+  },
+  "homepage": "https://github.com/diana7770/goit-js-hw-14handlebars#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}

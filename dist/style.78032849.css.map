@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.78032849.css","sourceRoot":"..\\src","sourcesContent":[".list {\r\n  list-style: none;\r\n}\r\n\r\nimg{\r\n  width: 100px;\r\n}\r\n"]}

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Amber Romance",
+    " volume": "75 ml",
+    "color": "orange",
+    "picture": "https://cdn.store-assets.com/s/139218/i/54351546.jpeg?width=1024"
+  },
+  {
+    "name": "Temptation",
+    " volume": "75 ml",
+    "color": "pinkish red",
+    "picture": "https://m.media-amazon.com/images/I/51l17-MsERL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Midnight Bloom",
+    " volume": "75 ml",
+    "color": "dark purple",
+    "picture": "https://beangel.ua/25383-large_default_2x/Midnight-Bloom.jpg"
+  },
+  {
+    "name": "Aqua Kiss",
+    " volume": "75 ml",
+    "color": "blue",
+    "picture": "https://beangel.ua/25390/Aqua-Kiss.jpg"
+  },
+  {
+    "name": "Pear Glace",
+    " volume": "75 ml",
+    "color": "light green",
+    "picture": "https://beangel.ua/25393/Pear-Glace.jpg"
+  },
+  {
+    "name": "Mango Temptation",
+    " volume": "75 ml",
+    "color": "yellow gold",
+    "picture": "https://beangel.ua/25387/Mango-Temptation.jpg"
+  }
+]
